@@ -14,7 +14,7 @@ services:
     depends_on:
       - mongo
     environment:
-      - MONGO_URL: ${MONGO_URL}
+      - MONGO_URL=${MONGO_URL}
 
 volumes:
   mongodb_data:
