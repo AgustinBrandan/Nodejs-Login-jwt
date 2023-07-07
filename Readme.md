@@ -1,4 +1,4 @@
-# Mi Proyecto API REST
+# API REST
 
 Este es un proyecto de ejemplo para una API REST utilizando Node.js, Express, MongoDB y Mongoose.
 
